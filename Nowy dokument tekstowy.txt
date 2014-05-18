@@ -1,6 +1,8 @@
 rrenio
-<<<<<<< HEAD
 rrenio linia 1 master
-=======
-rrenio linia 1 develope rrenio
->>>>>>> develope_rrenio
+
+
+
+
+
+rrenio linia n master
