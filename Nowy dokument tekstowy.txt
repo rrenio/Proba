@@ -24,3 +24,4 @@ funkcja2 rrenio
 }
 
 // i co nic nie dodajesz nie modyfikujesz uzywasz juz moze git gui clienta :>?
+//DOROTA ZMIENIA COSIK
