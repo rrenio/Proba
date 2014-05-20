@@ -12,6 +12,8 @@ rrenio linia n master 13:19
 funckja 
 {
 linia 1 master
+linia 1
+
 
 
 
