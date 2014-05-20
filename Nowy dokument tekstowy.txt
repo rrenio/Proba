@@ -18,3 +18,7 @@ return -1;
 funkcja rrenio
 {
 }
+
+funkcja2 rrenio
+{
+}
