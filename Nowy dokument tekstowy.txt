@@ -39,3 +39,6 @@ rrenio linia ... master web   master_tmp
 rreni linia ... master web
 rrenio linia .. master web 13:56
 rrenio linia .. master web 14:02
+rreni linia ... master web 
+rreni linia ... master PC  13:57
+
