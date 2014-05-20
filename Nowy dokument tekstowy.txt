@@ -1,14 +1,3 @@
-rrenio
-rrenio linia 1 master
-rrenio linia n master
-rrenio linia n master 13:18
-
-rrenio linia n master 13:18 2nd
-
-rrenio linia n master 13:19 2nd
-
-rrenio linia n master 13:19
-
 funckja 
 {
 
@@ -25,29 +14,4 @@ return None;
 f2(){
 return -1;
 }
-rrenio linia 1 master
-rrenio linia n master
-
-proba
-
-rrenio linia 1 master
-rrenio linia n master
-
-rrenio linia ... master web
-rrenio linia ... master web 1
-rrenio linia ... master web 2
-rrenio linia ... master web 3
-rrenio linia ... master web 4
-rrenio linia ... master web 5
-rrenio linia ... master web 6
-rrenio linia ... master web 7
-rrenio linia ... master web 8
-rrenio linia ... master web 9
-rrenio linia ... master web   master_tmp
-rreni linia ... master web
-rrenio linia .. master web 13:56
-rrenio linia .. master web 14:02
-rreni linia ... master web 
-rreni linia ... master PC  13:57
-rrenio linia github client
 
