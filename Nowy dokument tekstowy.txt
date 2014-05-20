@@ -17,6 +17,14 @@ funckja
 
 
 }
+
+f1(){
+return None;
+}
+
+f2(){
+return -1;
+}
 rrenio linia 1 master
 rrenio linia n master
 
