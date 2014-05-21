@@ -19,3 +19,5 @@ f2(){
 return -1;
 }
 
+//renard dodal cos na galezi master
+
