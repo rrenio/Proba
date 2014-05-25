@@ -26,3 +26,6 @@ return -1;
 //aga
 
 //reniotmp
+
+
+cos pisze
