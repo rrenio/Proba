@@ -25,4 +25,8 @@ return -1;
 //rrenio
 //aga
 
+<<<<<<< HEAD
 linia 2/2
+=======
+linia 1/1
+>>>>>>> origin/master
