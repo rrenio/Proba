@@ -31,3 +31,5 @@ linia 2/2 nr 1
 linia 1/1
 
 linia 2/2 nr 2
+
+linia 2/2 nr 3
